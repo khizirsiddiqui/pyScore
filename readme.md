@@ -17,3 +17,7 @@ pyScore currently depends upon these modules.
 ### Todos
 
  - Suggestions requested
+
+### Authors
+ 
+ - Khizir Siddiqui 
